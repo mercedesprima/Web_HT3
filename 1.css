@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+html {
+    display: table;
+    margin: auto;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #46afd2;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.content {
+    max-width: 900px;
+    margin: 300;
+}
+h1 {
+    color: rgb(72, 41, 4);
+    margin-left: 500px;
+}
+h2 {
+    margin-left: 450px;
+}
+img{
+    margin-left: 300px;
+}
